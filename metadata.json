@@ -1,0 +1,6 @@
+{
+  "name": "BâtirPro — Construire l'Avenir",
+  "description": "BTP, Génie Civil et Construction en Afrique centrale. Entreprise générale de construction et grands projets d'infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
